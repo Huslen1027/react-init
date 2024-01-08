@@ -3,7 +3,7 @@ export default function App() {
   return (
     <div>
       <Card />
-      <p>hello world</p>
+      <p>hello dog</p>
     </div>
   );
 }
